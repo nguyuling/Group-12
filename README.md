@@ -14,14 +14,17 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
 | Chronic Lymphocytic Leukemia | CLL |
 | Chronic Myeloid Leukemia | CML |—.
 
-
+<br>
 ## 🛠️ The Pipeline: From Raw Data to Diagnostic Model
 
 This repository contains the complete pipeline for multi-class classification:
 
 1. __Data Wrangling__ : Cleaning and preprocessing raw microarray data.
-> data_wrangling.py
-> output file: GSE13164_cleaned_features.csv & GSE13164_cleaned_labels.csv
+>     data_wrangling.py
+<br>
+>     GSE13164_cleaned_features.csv
+<br>
+>     GSE13164_cleaned_labels.csv
 
 2. __Exploratory Data Analysis__ : Identifying key genes showing differential expression across subtypes.
 
@@ -29,6 +32,7 @@ This repository contains the complete pipeline for multi-class classification:
 
 4. __Model Developmen__t & Evaluation : Training and optimizing classifiers (e.g., Random Forest, Logistic Regression) using rigorous cross-validation to achieve high prediction accuracy.
 
+<br>
 ## 🎓 Course Context
 __Group 12__ : SECB3203_25261 Programming for Bioinformatics 
 
