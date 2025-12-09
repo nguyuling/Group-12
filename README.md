@@ -1,7 +1,6 @@
 # The Computational Quest for Precision in Leukemia Diagnosis
 
-<br>
-<details>
+<details open>
     <summary><h2>🎯 Mission: Precision in Blood Cancer Diagnosis</h2></summary>
 
 The term "__leukemia__" covers a spectrum of devastating blood cancers, but not all leukemias are the same. Misclassification leads to missed treatment windows and poor patient outcomes.
@@ -39,10 +38,8 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
 
 </details>
 
-<br>
-
-<details>
-<summary>**🛠️ The Pipeline: From Raw Data to Diagnostic Model**</summary>
+<details open>
+<summary><h2>🛠️ The Pipeline: From Raw Data to Diagnostic Model</h2></summary>
 
 This repository contains the complete pipeline for multi-class classification:
 
