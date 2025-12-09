@@ -1,8 +1,10 @@
 # The Computational Quest for Precision in Leukemia Diagnosis
 
 <br>
+<details>
+    <summary>
 
-## 🎯 Mission: Precision in Blood Cancer Diagnosis
+## 🎯 Mission: Precision in Blood Cancer Diagnosis</summary>
 
 The term "__leukemia__" covers a spectrum of devastating blood cancers, but not all leukemias are the same. Misclassification leads to missed treatment windows and poor patient outcomes.
 
@@ -37,20 +39,25 @@ The Goal: To accurately distinguish and predict the __four major leukemia subtyp
   </tbody>
 </table>
 
+</details>
+
 <br>
 
-## 🛠️ The Pipeline: From Raw Data to Diagnostic Model
+<details>
+<summary>
+
+## 🛠️ The Pipeline: From Raw Data to Diagnostic Model </summary>
 
 This repository contains the complete pipeline for multi-class classification:
 
 1. __Data Wrangling__ : Cleaning and preprocessing raw microarray data.
->     data_wrangling.py
+    >  data_wrangling.py
 <br>
 
->     GSE13164_cleaned_features.csv
+    >   GSE13164_cleaned_features.csv
 <br>
 
->     GSE13164_cleaned_labels.csv
+    >   GSE13164_cleaned_labels.csv
 
 2. __Exploratory Data Analysis__ : Identifying key genes showing differential expression across subtypes.
 
@@ -58,8 +65,14 @@ This repository contains the complete pipeline for multi-class classification:
 
 4. __Model Development__ & Evaluation : Training and optimizing classifiers (e.g., Random Forest, Logistic Regression) using rigorous cross-validation to achieve high prediction accuracy.
 
+</details>
+
 <br>
+
+<details>
 
 ## 🎓 Course Context
 __Group 12__ : SECB3203_25261 Programming for Bioinformatics 
 __NGU YU LING__ (A23CS0149)
+
+<details>
