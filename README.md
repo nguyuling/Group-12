@@ -62,9 +62,9 @@ This repository contains the complete pipeline for multi-class classification:
 
 <hr>
 
-<p align="center">
+<h3 align="center">
 Group 12 | SECB3203_25261 Programming for Bioinformatics
-<p>
+</h3>
 <p align="center">
-<h3>NGU YU LING (A23CS0149) <h3>
+NGU YU LING (A23CS0149)
 </p>
