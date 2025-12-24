@@ -1,0 +1,54 @@
+Module 1 - Python Variable
+- String variable
+- Integer variable
+- Float variable
+- Boolean variable
+- List variable
+    - retrieve value by index
+    - retrieve index by value
+- Tuple variable
+- Dictionary variable
+- Print with variable
+- Calculation
+    + sum
+    - minus
+    * multiply
+    / divide
+    % modulus
+- Paper rock scissors (Method 1)
+
+
+Module 2 - Logical Condition Flow
+- Logical conjunction (and)
+- Logical disjunction (or)
+- Logical negation (not)
+- Condition flow (if elif else)
+- Operator for condition
+    == equal
+    > more than
+    < less than
+    >= more than or equal
+    <= less than or equal
+    != not equal
+- Paper rock scissors (Method 2)
+
+
+Module 3 - MumPy
+- ndarray (multidimentional array object)
+    - .shape (dimension)
+    - .dtype (data type)
+- Create zeroes / ones array (of different dimensional)
+    - np.zeroes(n)
+    - np.ones((n,...,n))
+- Data type for ndarray
+    - np.array(list_variable, dtype = float64 / int32)
+- Basic indexing & slicing
+    - array1[4:8] (4, 5, 6, 7)
+- Universal function
+    - np.sqrt(array1)
+    - np.exp(array1)
+- Mathemathical & statistical method
+    - .mean()
+    - .sum()
+    - .cumsum()
+    - .cumprod()
